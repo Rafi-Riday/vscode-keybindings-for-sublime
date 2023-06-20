@@ -51,5 +51,5 @@ Only the key bindings for Windows have been tested. Please raise an issue or sub
 - `super+shift+b`: Build project (`build`)
 - `alt+up`: `swap_line_up`
 - `alt+down`: `swap_line_down`
-- `shift+alt+up/down`:  Place multiple text cursors up/down
 - `shift+tab`: unindent line regardless of cursor position in line (`shift_tab_unindent` setting set to `true`)
+- `shift+alt+up/down`:  Place multiple text cursors up/down
