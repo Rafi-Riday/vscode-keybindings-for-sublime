@@ -6,6 +6,8 @@
 	{ "keys": ["ctrl+shift+b"], "command": "build" },
 	{ "keys": ["alt+up"], "command": "swap_line_up" },
 	{ "keys": ["alt+down"], "command": "swap_line_down" },
-	{ "keys": ["shift+alt+up"], "command": "select_lines", "args": {"forward": false} },
-	{ "keys": ["shift+alt+down"], "command": "select_lines", "args": {"forward": true} }
+	{ "keys": ["alt+shift+up"], "command": "duplicate_line" },
+	{ "keys": ["alt+shift+down"], "command": "duplicate_line" },
+	{ "keys": ["ctrl+alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["ctrl+alt+shift+down"], "command": "select_lines", "args": {"forward": true} }
 ]
